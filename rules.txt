@@ -1,0 +1,23 @@
+One player will choose a word and the other will guess the word. This is the person that invents 
+the puzzle for the other person to solve. They will be tasked with choosing a word or phrase that 
+"the players" will have to solve.
+
+The host should be able to spell confidently or the game will be difficult to win.
+
+If you are the creator, choose a secret word. The other players will need to guess your word letter by letter, so 
+choose a word you think will be difficult to guess. Difficult words usually have uncommon letters, like "z," or "j," 
+and only a few vowels.
+
+For longer games, you can also choose phrases.
+
+Start guessing letters if you are the player. Once the word has been chosen and the players know how many 
+letters in the secret word, begin guessing which letters are in the word by asking the host. 
+For example, you might begin by asking, "is there an 'e' in your word?"
+
+Generally, start by guessing common letters like vowels, "s," "t," and "n."
+
+The computer will automatically keep a record of all guesses made by the user, 
+as well as automatically populating the word with correct guesses.
+
+On wrong guesses, the computer will populate a hangman. 
+Once the hangman has been fully drawn, you have one last attempt to finish the word, else the man will hang!
